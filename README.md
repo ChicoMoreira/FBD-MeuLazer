@@ -1,5 +1,5 @@
 # FBD-MeuLazer
-Projeção de um banco de dados desde o início com integração via Juyper Notebook 
+Projeção de um banco de dados desde o início com integração via Jupyter Notebook 
 
 # Resumo do objetivo da aplicação 
 Meu Lazer é uma aplicação que possibilita seus usuários a conhecerem atividades de lazer na sua cidade ou outras regiões e promover ou participar de eventos nas
