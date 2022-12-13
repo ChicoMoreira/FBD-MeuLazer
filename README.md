@@ -9,5 +9,5 @@ e descontos para os participantes. A aplicação tem como objetivo auxiliar o ac
 # Diagrama EER
 ![diagramaEER](https://user-images.githubusercontent.com/91610164/207372571-484abfca-f66c-46fd-8e27-e4e87b92ffb1.png)
 
-* Modelo relacional 
+# Modelo relacional 
 ![modeloRelacional](https://user-images.githubusercontent.com/91610164/207372607-c799087b-931d-4556-a704-c1270e4a8e7a.png)
